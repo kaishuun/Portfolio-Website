@@ -1,5 +1,5 @@
 # Base information
-baseURL = "https://kaishuun.github.io/kevinhe.github.io/"
+baseURL = "https://kevinhe.netlify.app"
 languageCode = "en-gb"
 title = "Kevin He"
 theme = "dev-portfolio"
