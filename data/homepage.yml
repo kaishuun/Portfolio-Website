@@ -1,0 +1,90 @@
+---
+banner:
+  title: Hi There, I'm Kevin
+social:
+  twitter: ""
+  linkedin: sjhe
+  github: kaishuun
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  sfu: sjhe 
+about:
+  enable: true
+  content: 3rd Year Operations Research and Computing Science Student
+  button:
+    btnText: More about Me
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: Python
+      logo: https://res.cloudinary.com/kevinhe/image/upload/v1594496511/1024px-Python-logo-notext.svg_tsqemn.png
+      description: "Packages- Pandas, NumPy, Selenium, BeautifulSoup4"
+    - title: R 
+      logo: https://res.cloudinary.com/kevinhe/image/upload/v1594496492/724px-R_logo.svg_atz0ov.png
+      description: "Packages - Tidyverse (ggplot, dplyr, tidyr, readr, purr, tibble, stringr, forcats), rbokeh, networkD3"
+    - title: C
+      logo: https://res.cloudinary.com/kevinhe/image/upload/v1594498612/c-programming-569564_ebk2kv.png
+      description: "Experienced with OOP and implementing data structures"
+    - title: MATLAB
+      logo: https://res.cloudinary.com/kevinhe/image/upload/v1594496571/667px-Matlab_Logo_clkgma.png
+      description: "Experienced with Matrix Operations and building machine learning models"
+    - title: Maple
+      logo: https://res.cloudinary.com/kevinhe/image/upload/v1594496607/Maple_lg_uo2au5.png
+      description: "Experienced with mathematical computing, specifically modelling with matricies, differential equations, calculus, graph theory. As well familiar with plotting"
+    - title: LaTeX
+      logo: https://res.cloudinary.com/kevinhe/image/upload/v1594502945/1280px-LaTeX_logo.svg_ssv0z2.png
+      description: "Experienced with mathematical typesetting, worked on scientific papers, powerpoints, and posters"
+experience:
+  enable: true
+  item:
+    - logo: https://res.cloudinary.com/kevinhe/image/upload/v1594497045/1280px-SFU-block-logo.svg_rnptvu.png
+      title: Undergraduate Student Researcher (NSERC USRA)
+      company: Dept. of Mathematics, SFU
+      duration: May 2020 - Present
+    - logo: https://res.cloudinary.com/kevinhe/image/upload/v1594497127/https_3A_2F_2Fcdn.evbuc.com_2Fimages_2F83822075_2F57575538177_2F2_2Foriginal_dcmlhm.jpg
+      title: Science and Robotics Facilitator
+      company: Science World
+      duration: June 2017 - Present
+    - logo: https://res.cloudinary.com/kevinhe/image/upload/v1594497234/orsu_logo_nyqb6r.png
+      title: Vice President
+      company: SFU Operations Research Student Union
+      duration: Janurary 2020 - Present
+    - logo: https://res.cloudinary.com/kevinhe/image/upload/v1594497282/on_campus_cyan_urcdmk.png
+      title: Vice President - Finance
+      company: UNICEF SFU
+      duration: August 2019 - Present
+hackathons:
+  enable: false
+  item:
+    - title: Hack Cambridge 2019
+      description: Climate change simulator
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+      url: none
+certifications:
+  enable: true
+  item:
+    - title: Stanford Machine Learning (Work in Progress)
+      image: https://res.cloudinary.com/kevinhe/image/upload/v1594499033/Stanford-Logo_hrrphm.png
+      url: https://www.coursera.org/learn/machine-learning
+education:
+  enable: true
+  item:
+    - title: Honours B.Sc Operations Research, Computing Science Minor
+      year: 2018 - Present
+      academy: Simon Fraser University
+      image: https://res.cloudinary.com/kevinhe/image/upload/v1594497045/1280px-SFU-block-logo.svg_rnptvu.png
+
+leadership:
+  enable: false
+portfolio:
+  filter:
+    - label: Exploratory Analysis
+      value: Exploratory-Analysis
+    - label: Scientific Computing 
+      value: Scientific-Computing
+    - label: Course Work
+      value: Course-Work
+    - label: Optimization
+      value: Optimization

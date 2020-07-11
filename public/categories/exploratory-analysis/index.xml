@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploratory-Analysis on Kevin He</title>
+    <link>https://kaishuun.github.io/kevinhe.github.io/categories/exploratory-analysis/</link>
+    <description>Recent content in Exploratory-Analysis on Kevin He</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 10 Jul 2020 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kaishuun.github.io/kevinhe.github.io/categories/exploratory-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MapleRank</title>
+      <link>https://kaishuun.github.io/kevinhe.github.io/portfolio/maplerank-analysis/</link>
+      <pubDate>Fri, 10 Jul 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://kaishuun.github.io/kevinhe.github.io/portfolio/maplerank-analysis/</guid>
+      <description>The data was gathered on MapleStory Global&amp;rsquo;s official ranking list by using BeautifulSoup4 as a web scrapper. Data aggregation and graphs were done using the Tidyverse set of packages in R.
+This is just a snippit of the project, to check out the full documentation, check out my notebook here.
+Introduction Maplestory has been a popular MMORPG in the early-mid 2000&amp;rsquo;s. Despite its dwindling popularity, it&amp;rsquo;s one of the games I always return to every semester break.</description>
+    </item>
+    
+  </channel>
+</rss>

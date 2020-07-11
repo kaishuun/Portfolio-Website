@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kevin He</title>
+    <link>https://kaishuun.github.io/kevinhe.github.io/categories/</link>
+    <description>Recent content in Categories on Kevin He</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 10 Jul 2020 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kaishuun.github.io/kevinhe.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploratory-Analysis</title>
+      <link>https://kaishuun.github.io/kevinhe.github.io/categories/exploratory-analysis/</link>
+      <pubDate>Fri, 10 Jul 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://kaishuun.github.io/kevinhe.github.io/categories/exploratory-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizatization</title>
+      <link>https://kaishuun.github.io/kevinhe.github.io/categories/optimizatization/</link>
+      <pubDate>Fri, 10 Jul 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://kaishuun.github.io/kevinhe.github.io/categories/optimizatization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
