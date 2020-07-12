@@ -40,7 +40,7 @@ experience:
   enable: true
   item:
     - logo: https://res.cloudinary.com/kevinhe/image/upload/v1594497045/1280px-SFU-block-logo.svg_rnptvu.png
-      title: Undergraduate Student Researcher (NSERC USRA)
+      title: Undergraduate Student Researcher
       company: Dept. of Mathematics, SFU
       duration: May 2020 - Present
     - logo: https://res.cloudinary.com/kevinhe/image/upload/v1594497127/https_3A_2F_2Fcdn.evbuc.com_2Fimages_2F83822075_2F57575538177_2F2_2Foriginal_dcmlhm.jpg
@@ -82,8 +82,6 @@ portfolio:
   filter:
     - label: Exploratory Analysis
       value: Exploratory-Analysis
-    - label: Scientific Computing 
-      value: Scientific-Computing
     - label: Course Work
       value: Course-Work
     - label: Optimization
