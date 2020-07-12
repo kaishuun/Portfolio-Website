@@ -12,4 +12,4 @@ Hey there! I'm Kevin, a third year Operations Research Student also completing a
 
 # Resume
 
-To learn more about my technical experiences check out my resume [here](https://github.com/kaishuun/Portfolio-Website/blob/master/public/images/about/Resume-%20Kevin.pdf)
+To learn more about my technical experiences check out my resume [here](https://github.com/kaishuun/portfolio/blob/master/public/images/about/Resume-%20Kevin.pdf)
