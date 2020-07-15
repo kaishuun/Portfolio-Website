@@ -41,7 +41,7 @@ In this Analysis we strictly look at players over level 205.
 Here we see the distribution of players in each world. A common issue in MapleStory is players trying to find an empty map to either train or meso farm, for those who want more of a solo play styler a less populated world such as Elysium would be a perfect fit, while in Bera trying to find a guild or party quest would be much easier. This also shows the popularity and success of Reboot, being a special server where you can't trade with other players and where game enhancements are able to be purchased through mesos instead of money.
 
 ### Level Data
-![](https://res.cloudinary.com/kevinhe/image/upload/v1594505679/World_Distribution_pg1bhz.png)
+![](https://res.cloudinary.com/kevinhe/image/upload/v1594505666/Level_Distribution_per_world_mmz3b7.png)
 
 Next, we take a look at what levels most players are. Player levels for each world are similarly distributed with a peak around level 210 followed by an exponential decrease. This shows that despite reboot being different from the normal worlds, players have a tendency to stop playing around level 210.
 
