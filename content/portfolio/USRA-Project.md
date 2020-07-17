@@ -32,4 +32,4 @@ Recently a study by Finkelstein, Stevens, al-Gharbi claimed, using records of co
 ## Work So Far...
 This section will be documented in more detail in August.
 
-To better understand if there exists a radicalization pathway on the YouTube platform where consumers are drawn towards the content of the far right, I've web scraped over 800 YouTube Channels and 2000 YouTube Videos and their recommendations. This data was then transformed and modelled to create a markov probability matrix to better analyze consumer behaviour on the Platform.
+To better understand if there exists a radicalization pathway on the YouTube platform where consumers are drawn towards the content of the far right, I've web scraped over 800 YouTube Channels and 2000 YouTube Videos and their recommendations. This data was then transformed and modelled to create a Markov probability matrix to better analyze consumer behaviour on the Platform.
