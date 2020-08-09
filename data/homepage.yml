@@ -68,6 +68,9 @@ certifications:
     - title: Stanford Machine Learning
       image: https://res.cloudinary.com/kevinhe/image/upload/v1594499033/Stanford-Logo_hrrphm.png
       url: https://coursera.org/share/0da9e73525cf65013127ca7df81a5db7
+    - title: Getting Started with AWS Machine Learning
+      image: https://res.cloudinary.com/kevinhe/image/upload/v1597014214/1024px-Amazon_Web_Services_Logo.svg_iwzv6k.png
+      url: https://www.coursera.org/account/accomplishments/records/DJY8CRGY5KCM
 education:
   enable: true
   item:
