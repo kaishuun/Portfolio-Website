@@ -67,7 +67,7 @@ Legend:
 
 | Abbreviation  | Meaning       |
 | ------------- |:-------------:| 
-| UP-STAT | Upper-Division Statistics Course
+| UP-STAT | Upper-Division Statistics Course |
 | INTR      |  Interdisciplinary Course| 
 | B-SOC      | Breadth- Social Science Course      | 
 | B-HUM | Breadth- Humanities Course      | 

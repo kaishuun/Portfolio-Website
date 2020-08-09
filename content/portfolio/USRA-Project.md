@@ -57,8 +57,8 @@ Finally using the same data, we normalize the views sent to the recommended vide
 Here we see that Social Justice videos are heavily favoured in terms of recommendations in comparison to all other ideologies. By looking at the limiting probabilities we can reaffirm our previous findings that predominantly centralist ideologies are favoured by the YouTube algorithm at the base level with the IDW ideology growing in terms of trend. 
 
 
-| Ideology   |      Limiting Probabity      | 
-|----------|:-------------:|
+| Ideology      | Limiting Probabity | 
+| ------------- |:------------------:| 
 | Alt-light | 0.01 | 
 | Alt-right | 0 | 
 | Anti-theist | 0.01 | 
