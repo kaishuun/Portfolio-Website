@@ -58,8 +58,8 @@ Here we see that Social Justice videos are heavily favoured in terms of recommen
 
 
 | Ideology      | Limiting Probabity | 
-| ------------- |:------------------:| 
-| Alt-light | 0.01 | 
+| ------------------ |:------------------:| 
+| Alt-light | 0.01 
 | Alt-right | 0 | 
 | Anti-theist | 0.01 | 
 | Anti-white | 0 | 
@@ -73,6 +73,8 @@ Here we see that Social Justice videos are heavily favoured in terms of recommen
 | Revolutionary Socialist | 0 | 
 | Social Justice | 0.55 | 
 | Socialist | 0.04 | 
+
+
 
 
 ## References
