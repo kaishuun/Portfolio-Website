@@ -75,6 +75,9 @@ certifications:
     - title: Getting Started with AWS Machine Learning
       image: https://res.cloudinary.com/kevinhe/image/upload/v1597014214/1024px-Amazon_Web_Services_Logo.svg_iwzv6k.png
       url: https://www.coursera.org/account/accomplishments/records/DJY8CRGY5KCM
+    - title: SQL for Data Science
+      image: https://res.cloudinary.com/kevinhe/image/upload/v1598590952/UCDavisUnofficialSeal_Gold_bxyuaa.png
+      url: https://www.coursera.org/account/accomplishments/records/MKPHLACCJUCN
 education:
   enable: true
   item:
