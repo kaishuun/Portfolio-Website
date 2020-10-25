@@ -8,7 +8,7 @@ social:
   gitlab: ""
   facebook: ""
   instagram: ""
-  sfu: sjhe 
+  sfu: sjhe
 about:
   enable: true
   content: 3rd Year Operations Research and Computing Science Student
@@ -21,7 +21,7 @@ skill:
     - title: Python
       logo: https://res.cloudinary.com/kevinhe/image/upload/v1594496511/1024px-Python-logo-notext.svg_tsqemn.png
       description: "Packages- Pandas, NumPy, Selenium, BeautifulSoup4"
-    - title: R 
+    - title: R
       logo: https://res.cloudinary.com/kevinhe/image/upload/v1594496492/724px-R_logo.svg_atz0ov.png
       description: "Packages - Tidyverse (ggplot, dplyr, tidyr, readr, purr, tibble, stringr, forcats), rbokeh, networkD3"
     - title: C
@@ -36,9 +36,16 @@ skill:
     - title: LaTeX
       logo: https://res.cloudinary.com/kevinhe/image/upload/v1594502945/1280px-LaTeX_logo.svg_ssv0z2.png
       description: "Experienced with mathematical typesetting, worked on scientific papers, powerpoints, and posters"
+  - title: AMPL
+    logo: https://res.cloudinary.com/kevinhe/image/upload/v1603651862/AMPL-logo-434-x-140_m4autw.png
+    description: "Experienced with industrial mathematical programming models and implementation"
 experience:
   enable: true
   item:
+    - logo: https://res.cloudinary.com/kevinhe/image/upload/v1603651683/sun-life-financial-1-logo_ep7w3k.png
+      title: Actuarial Analyst Co-op
+      company: Sun Life Financial
+      duration: Janurary 2021 - April 2021
     - logo: https://res.cloudinary.com/kevinhe/image/upload/v1594497045/1280px-SFU-block-logo.svg_rnptvu.png
       title: Research Assistant
       company: Dept of Mathematics, SFU
